@@ -14,7 +14,6 @@ REQUIRED_PACKAGES = [
     'contextlib2',
     'tf-slim',
     'six',
-    'pycocotools',
     'lvis',
     'scipy',
     'pandas',
